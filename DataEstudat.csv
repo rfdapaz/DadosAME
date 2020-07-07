@@ -4,7 +4,7 @@
 "3","Limoeiro do Norte","CE","Masculino",19,60,1.65,"Engenharia de Produção","Não","622.2",19,3
 "4","Quixadá","CE","Masculino",20,80.3,1.73,"Engenharia Mecânica","Sim","624.8",16,5
 "5","Russas","CE","Masculino",17,59,1.68,"Engenharia Mecânica","Sim","705.5",16,4
-"6","Limoeiro do Norte","CE","Masculino",19,75,180,"Engenharia de Software","Sim","648",17,5
+"6","Limoeiro do Norte","CE","Masculino",19,75,1.80,"Engenharia de Software","Sim","648",17,5
 "7","Jaguaribe","CE","Masculino",18,63,1.75,"Engenharia de Produção","Sim",NA,15,4
 "8","Jaguaruana","CE","Feminino",18,57,1.53,"Engenharia de Produção","Sim","570",17,4
 "9","Fortaleza","CE","Feminino",19,74,1.65,"Engenharia de Produção","Sim",NA,15,5
@@ -23,7 +23,6 @@
 "22","Russas","CE","Masculino",18,45,1.78,"Engenharia Mecânica","Sim","664.94",17,5
 "23","Paracuru","CE","Masculino",19,80,1.72,"Engenharia Mecânica","Não","670",17,5
 "24","Morada Nova","CE","Masculino",18,70.2,1.75,"Engenharia Mecânica","Não","720.3",17,5
-"25","Limoeiro do Norte","CE","Masculino",18,50,1,"Engenharia Mecânica","Sim","646.5",17,5
 "26","Crateús","CE","Masculino",18,58,1.80,"Engenharia Mecânica","Sim",NA,17,5
 "27","Paracuru","CE","Masculino",18,52,1.70,"Engenharia Mecânica","Sim","621",16,5
 "28","Marco","CE","Masculino",19,59,1.78,"Engenharia de Software","Não","660",18,5
@@ -35,7 +34,6 @@
 "34","Quixadá","CE","Masculino",17,49,1.76,"Engenharia Mecânica","Não","694.94",17,5
 "35","Fortaleza","CE","Masculino",19,75,1.65,"Engenharia Mecânica","Sim","670",18,4
 "36","Quixadá","CE","Masculino",18,64,1.64,"Engenharia Mecânica","Sim","655",16,5
-"37","Aracoiaba","CE","Feminino",18,50,1.65,"Engenharia de Produção","Sim","592.16",18,4
 "38","Aracoiaba","CE","Feminino",18,50,1.65,"Engenharia de Produção","Sim","592.16",18,4
 "39","Limoeiro do Norte","CE","Feminino",19,59,1.6,"Engenharia de Produção","Sim","667",18,4
 "40","Morada Nova","CE","Masculino",18,64,1.56,"Engenharia Mecânica","Sim","696",17,4
@@ -55,23 +53,23 @@
 "54","Jaguaruna","CE","Feminino",17,51,1.63,"Engenharia de Produção","Sim","588",17,3
 "55","fortaleza","CE","Masculino",19,65,1.72,"Engenharia Mecânica","Sim","666",14,5
 "56","fortaleza","CE","Masculino",19,65,1.70,"Ciência da Computação","Sim","615",17,5
-"57","Tabuleiro do Norte","CE","Feminino",20,60,154,"Engenharia de Software","Sim",NA,17,2
-"58","Russas","CE","Feminino",18,52,151,"Ciência da Computação","Não","657",17,3
-"59","Boa Viagem","CE","Masculino",23,89,178,"Ciência da Computação","Sim","602",22,5
-"60","Russas","CE","Masculino",18,73,193,"Engenharia Mecânica","Sim","651",18,4
-"61","Quixadá","CE","Masculino",17,49,176,"Engenharia Mecânica","Não","694.94",17,5
-"62","Itaitinga","CE","Masculino",19,77,185,"Engenharia de Produção","Não","624",18,3
+"57","Tabuleiro do Norte","CE","Feminino",20,60,1.54,"Engenharia de Software","Sim",NA,17,2
+"58","Russas","CE","Feminino",18,52,1.51,"Ciência da Computação","Não","657",17,3
+"59","Boa Viagem","CE","Masculino",23,89,1.78,"Ciência da Computação","Sim","602",22,5
+"60","Russas","CE","Masculino",18,73,1.93,"Engenharia Mecânica","Sim","651",18,4
+"61","Quixadá","CE","Masculino",17,49,1.76,"Engenharia Mecânica","Não","694.94",17,5
+"62","Itaitinga","CE","Masculino",19,77,1.85,"Engenharia de Produção","Não","624",18,3
 "63","Russas","CE","Masculino",20,58,1.7,"Engenharia de Software","Sim","750",18,3
-"64","Palhano","CE","Feminino",18,61,162,"Engenharia de Produção","Não",NA,18,4
-"65","jaguarua","CE","Feminino",21,61,156,"Engenharia de Software","Sim","680",18,3
-"66","Tejuçuoca","CE","Masculino",18,70,170,"Engenharia Mecânica","Sim","652.2",12,5
-"67","Tejuçuoca","CE","Masculino",18,70,170,"Engenharia Mecânica","Sim","652.2",12,5
+"64","Palhano","CE","Feminino",18,61,1.62,"Engenharia de Produção","Não",NA,18,4
+"65","jaguarua","CE","Feminino",21,61,1.56,"Engenharia de Software","Sim","680",18,3
+"66","Tejuçuoca","CE","Masculino",18,70,1.70,"Engenharia Mecânica","Sim","652.2",12,5
+"67","Tejuçuoca","CE","Masculino",18,70,1.70,"Engenharia Mecânica","Sim","652.2",12,5
 "68","Morada Nova","CE","Masculino",18,59,1.72,"Engenharia Mecânica","Sim","651.3",17,5
 "69","São Benedito","CE","Masculino",18,61,1.7,"Engenharia Mecânica","Não","622.3",18,5
-"70","fortaleza","CE","Masculino",19,72,173,"Ciência da Computação","Sim","Não lembro",17,5
-"71","fortaleza","CE","Masculino",19,80,171,"Engenharia de Software","Sim","671",17,5
-"72","Jaguaruana","CE","Feminino",22,50,156,"Engenharia de Software","Sim","627.8",19,3
-"73","Russas","CE","Masculino",28,80,165,"Ciência da Computação","Sim",NA,26,5
+"70","fortaleza","CE","Masculino",19,72,1.73,"Ciência da Computação","Sim","Não lembro",17,5
+"71","fortaleza","CE","Masculino",19,80,1.71,"Engenharia de Software","Sim","671",17,5
+"72","Jaguaruana","CE","Feminino",22,50,1.56,"Engenharia de Software","Sim","627.8",19,3
+"73","Russas","CE","Masculino",28,80,1.65,"Ciência da Computação","Sim",NA,26,5
 "74","Santa Catarina","CE","Masculino",20,77,1.69,"Engenharia Mecânica","Sim","670",16,4
 "75","Russas","CE","Masculino",18,75,1.85,"Engenharia de Software","Sim","640",16,3
 "76","São Paulo","SP","Feminino",18,51,1.60,"Engenharia Civil","Sim","676.14",14,5
@@ -131,7 +129,7 @@
 "130","Jaguaruana","CE","Masculino",18,70,1.75,"Engenharia de Produção","Sim","614",17,3
 "131","Jaguaruna","CE","Feminino",17,51,1.63,"Engenharia de Produção","Sim","588",17,4
 "132","Russas","CE","Feminino",23,70,1.66,"Engenharia de Produção","Sim","691",22,4
-"133","Horizonte","CE","Feminino",17,83,.167,"Engenharia de Produção","Não",NA,16,4
+"133","Horizonte","CE","Feminino",17,83,1.67,"Engenharia de Produção","Não",NA,16,4
 "134","Morada Nova","CE","Masculino",19,70,1.66,"Engenharia de Produção","Sim","578",17,4
 "135","Fortaleza","CE","Feminino",18,45.3,1.71,"Engenharia de Produção","Sim","661.48",16,5
 "136","Limoeiro do norte","CE","Masculino",17,66,1.71,"Engenharia de Produção","Sim","685.6",16,3
@@ -178,7 +176,6 @@
 "179","Russas","CE","Masculino",25,58,1.70,"Engenharia de Software","Sim","650",21,3
 "180","Russas","CE","Masculino",19,59,1.73,"Engenharia de Software","Sim","644",18,3
 "181","Fortaleza","CE","Feminino",20,52,1.53,"Engenharia de Produção","Não",NA,19,1
-"182","Limoeiro do norte","CE","Masculino",18,51,1,"Engenharia Mecânica","Sim","646.5",17,5
 "183","Morada Nova","CE","Masculino",18,59,1.70,"Engenharia Mecânica","Sim","651",18,5
 "184","Morada Nova","CE","Masculino",18,63,1.74,"Engenharia Mecânica","Não","720.12",17,5
 "185","Cruz","CE","Masculino",19,55,1.70,"Ciência da Computação","Sim",NA,17,4
